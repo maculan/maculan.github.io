@@ -7,7 +7,7 @@ title: Impressum
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
 Johann Wieser  
-Tiberiusstraße 6
+Tiberiusstraße 6  
 3313 Wallsee  
 AUSTRIA  
 

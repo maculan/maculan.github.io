@@ -34,4 +34,4 @@ Ich - **MACULAN** - alias Johann Wieser zaubere bereits seit meiner frühsten Ju
   
   
 ## Zauberfreunde Steyr
-Logo einfügen als Link
+![Zauberfreunde Steyr](/assets/images/logo/zauberfreunde.jpg "Zauberfreunde Steyr")

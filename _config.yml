@@ -4,9 +4,6 @@ plugins:
 title: MACULAN - Zauberer & Humorist
 description: MACULAN - Zauberer & Humorist aus Wallsee in Niederösterreich
 url: maculan.github.io
-author:
-  name: Johann Wieser
-  email: maculan@gmx.at
 
 paginate: 3
 owner: Johann wieser

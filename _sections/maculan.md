@@ -3,10 +3,12 @@ title: MACULAN
 auto-header: none
 icon: fa-magic
 order: 1
-cover-photo: /assets/images/startseite.jpg
-cover-photo-alt: MACULAN
 ---
 ## MACULAN - Zauberer & Humorist
+[Maculan]: https://maculan.github.io/assets/images/startseite.jpg "MACULAN - Zauberer & Humorist"
+<img src="http://images.weserv.nl/?url=www.yourdomain.com{{ Maculan }}&w=200&h=200&output=jpg&q=65" />
+
+
 Ich - **MACULAN** - alias Johann Wieser zaubere bereits seit meiner frühsten Jugend. Inspiriert durch Zauberbüch begann ich bei verschiedenen Jugendvereinen aufzutreten. In meiner Lehrzeit - später beim Bundesheer - verbesserte ich meine Magie. Nach einigen Jahren als Amateur-Zauberkünstler wurde ich Mitglied bei verschiedenen Zauberclubs: Linz, Krems und seit 1990 bie den Zauberfreunden Steyr. Bei meinen Auftritten in ganz Österreich und Deutschland lernte ich auch verschiedene Musikgruppen und Bands kennen und teilte mir mit diesen eine Bühne. Unter anderem waren dies: Kogler Buam, Orig Fidele Lavanttaler, Kern Buam, Stoakogler-Trio ("Stoanis"), Ursprung Buam und viele mehr. Seit 1972 bin ich auch als Humorist tätig. Dieses Talent habe ich geerbt von meinem Großvater und ausgebaut in diversen Bierzelten und auf Frühschoppen. Diese praktische Erfahrung erlaubt es mir, bei meinen Auftritten Magie und Humor zu kombinieren.  
 
 ## Wünschen Sie sich für Ihre Veranstaltung ein besonderes Highlight, das unvergessen bleibt?

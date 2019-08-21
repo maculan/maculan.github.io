@@ -21,4 +21,4 @@ Diese Website verwendet zur Erstellung der Galerie den Image Service [Images.Wes
 #### Third Party Inclusion
 This website is hosted by [Github](https://www.github.com) using [Github Pages](https://pages.github.com). The Github Global Privacy Practices are available [here](https://help.github.com/en/articles/global-privacy-practices).  
 This Website uses fonts hosted by [Font Awesome](https://fontawesome.com). The Font Awesome Privacy Policy is available [here](https://fontawesome.com/privacy).  
-This Website uses the Image Service [Images.Weserve.nl](https://images.weserve.nl). The images.weserve.nl is available [here](https://github.com/weserv/images/blob/4.x/Privacy-Policy.md).  
+This Website uses the Image Service [Images.Weserve.nl](https://images.weserve.nl). The images.weserve.nl Privacy Poloicy is available [here](https://github.com/weserv/images/blob/4.x/Privacy-Policy.md).  

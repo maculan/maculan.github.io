@@ -30,7 +30,11 @@ Ich - **MACULAN** - alias Johann Wieser zaubere bereits seit meiner frühsten Ju
 - Witze
 - gerne gestalten wir Ihnen ein individuelles Programm für Ihre Veranstaltung!
 
+## Kontakt
+Haben Sie Interesse an einem lustigen oder magischen Ereignis der besonderen Art, bin ich für Sie wie folgt erreichbar:
+E-Mail: maculan@gmx.at
+Telefon: +43 676 541 29 43
+
 ## Ihre Gäste werden staunen, lachen und verblüfft sein - Unterhaltung pur!
-  
- 
+   
 [![Zauberfreunde Steyr](/assets/images/logo/zauberfreunde.png "Zauberfreunde Steyr"){:width="50%"}](https://www.zauberfreunde-steyr.at)

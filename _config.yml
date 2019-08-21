@@ -17,6 +17,6 @@ year: 2019
 remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
 
-url: https://maculan.github.io
-base_url: /
+url: "https://maculan.github.io"
+base_url: "/"
 avatar: /assets/images/logo.png

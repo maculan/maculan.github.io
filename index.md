@@ -22,5 +22,6 @@ Ich - **MACULAN** - alias Johann Wieser zaubere bereits seit meiner frühsten Ju
 - Vorträge
 - Gedichte
 - Witze
+- gerne gestalten wir Ihnen ein individuelles Programm!
 
 ### Ihre Gäste werden staunen, lachen und verblüfft sein - Unterhaltung pur!

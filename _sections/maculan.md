@@ -38,7 +38,7 @@ Ich - **MACULAN** - alias Johann Wieser zaubere bereits seit meiner frühsten Ju
 ## Kontakt
 Haben Sie Interesse an einem lustigen oder magischen Ereignis der besonderen Art, bin ich für Sie wie folgt erreichbar:
 
-**MACULAN - Zauberer & Humorist  **
+**MACULAN - Zauberer & Humorist**
 E-Mail: maculan@gmx.at  
 Telefon: +43 676 541 29 43  
 

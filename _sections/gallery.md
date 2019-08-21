@@ -4,4 +4,5 @@ order: 2
 icon: fa-images
 icon-style: regular
 ---
-# Photos will be here
+{% include image-gallery.html folder="/assets/images/gallery" %}
+

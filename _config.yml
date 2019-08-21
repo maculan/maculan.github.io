@@ -13,7 +13,3 @@ collections: [sections]
 url: "https://maculan.github.io"
 base_url: "/"
 avatar: /assets/images/logo/logo.png
-
-# Plugins 
-plugins:
-  - jekyll-gallery-generator

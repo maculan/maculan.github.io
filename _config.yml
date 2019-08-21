@@ -1,4 +1,4 @@
-remote_theme: chrisbobbe/jekyll-theme-prologue
+theme: jekyll-theme-prologue
 
 plugins:
   - jekyll-gallery-generator
@@ -13,3 +13,9 @@ author:
 paginate: 3
 owner: Johann wieser
 year: 2019
+collections: [sections]
+url: https://maculan.github.io
+base_url: https://maculan.github.io
+avatar: fotos/logo.png
+
+

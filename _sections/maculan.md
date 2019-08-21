@@ -30,8 +30,7 @@ Ich - **MACULAN** - alias Johann Wieser zaubere bereits seit meiner frühsten Ju
 - Witze
 - gerne gestalten wir Ihnen ein individuelles Programm für Ihre Veranstaltung!
 
-### Ihre Gäste werden staunen, lachen und verblüfft sein - Unterhaltung pur!
+## Ihre Gäste werden staunen, lachen und verblüfft sein - Unterhaltung pur!
   
-  
-## Zauberfreunde Steyr
-![Zauberfreunde Steyr](/assets/images/logo/zauberfreunde.png "Zauberfreunde Steyr"){:width="50%"}   
+ 
+[![Zauberfreunde Steyr](/assets/images/logo/zauberfreunde.png "Zauberfreunde Steyr"){:width="50%"}](https://www.zauberfreunde-steyr.at)

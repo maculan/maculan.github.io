@@ -1,8 +1,8 @@
 ---
-layout: default
 title: Impressum
+order: 3
+icon: balance-scale
 ---
-
 ## Impressum
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 

@@ -1,9 +1,7 @@
-theme: jekyll-theme-prologue
-
 plugins:
   - jekyll-gallery-generator
 
-title: MACULAN - ZAUBERER & HUMORIST
+title: MACULAN - Zauberer & Humorist
 description: MACULAN - Zauberer & Humorist aus Wallsee in Niederösterreich
 url: maculan.github.io
 author:
@@ -13,9 +11,12 @@ author:
 paginate: 3
 owner: Johann wieser
 year: 2019
+
+
+# The following settings are NECESSARY for the Prologue theme to run:
+remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
+
 url: https://maculan.github.io
-base_url: https://maculan.github.io
-avatar: fotos/logo.png
-
-
+base_url: /jekyll-theme-prologue
+avatar: /assets/images/logo.png
